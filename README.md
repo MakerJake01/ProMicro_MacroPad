@@ -10,7 +10,8 @@ It uses the [keyboard.h](https://www.arduino.cc/reference/en/language/functions/
 It may be possible to program the MacroPad more efficiently. 
 
 **The soldering:** <br>
-There is a lot of SMD soldering. The smallest parts are 1206 resistors and capacitors. Some of the pads for the LEDs on the back do get very close. It will be an intermediate to advanced soldering project. 
+There is a lot of SMD soldering. The smallest parts are 1206 resistors and capacitors. Some of the pads for the LEDs on the back do get very close. It will be an intermediate to advanced soldering project. (I have been soldering for a while so, SMD soldering is easy for me.) [SMD Soldering Guide](https://www.youtube.com/watch?v=VxMV6wGS3NY&t=544s)
+
 
 **The PCB:** <br>
 Use the Gerber files to make the PCBs. It's a two-layer PCB and a 1.6 mm board. A black solder mask will look better but will add some time and possible cost.  
