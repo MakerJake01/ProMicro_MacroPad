@@ -1,0 +1,20 @@
+# all parts needed
+
+The PCB is from: https://jlcpcb.com 
+You need to upload the Gerber Zip. 
+
+I used the 5V ProMicro from: https://www.sparkfun.com/products/12640
+
+SMD headers https://www.sparkfun.com/products/11542
+
+Neopixels: https://www.sparkfun.com/products/16346
+
+The frame is: https://www.maxkeyboard.com/max-keycap-cherry-mx-switch-gateron-switch-o-ring-ultimate-sampler-tester-kit.html
+
+At least 16 0.1UF caps https://www.digikey.com/product-detail/en/kemet/C1206C104K5RAC7800/399-C1206C104K5RAC7800CT-ND/411524
+
+Resistors:
+8 10k ohm https://www.digikey.com/product-detail/en/yageo/RC1206JR-0710KL/311-10KERCT-ND/7321561
+1 300 ohm https://www.digikey.com/product-detail/en/stackpole-electronics-inc/RMCF1206JT300R/RMCF1206JT300RCT-ND/1942776
+
+Use any MX style switches. 
