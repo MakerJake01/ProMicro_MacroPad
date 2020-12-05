@@ -6,8 +6,6 @@ It's perfect for switching between scenes in OBS or a mute/unmute button in Disc
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/6hcVxPT"  ><a href="//imgur.com/a/6hcVxPT">MacroPad pics</a></blockquote>
 
-https://imgur.com/SG8d7fy
-
 **The programing:** <br>
 The code was all programmed in C++ using the Arduino IDE. It can be programmed with F keys (i.e. F13, F14, ...).
 It uses the [keyboard.h](https://www.arduino.cc/reference/en/language/functions/usb/keyboard/) library. I have tried to make it as easy to reprogram as possible. 
@@ -21,7 +19,5 @@ There is a lot of SMD soldering. The smallest parts are 1206 resistors and capac
 Use the Gerber files to make the PCBs. It's a two-layer PCB and a 1.6 mm board. A black solder mask will look better but will add some time and possible cost.  
 
 **The switches** <br>
-The PCB has the holes for an MX style switch. The PCB has the holes for a plate mount switch. If you have a PCB mount switch, the extra legs need to be cut off
+The PCB has the holes for an MX style switch. The PCB has the holes for a plate mount switch. If you have a PCB mount switch, the extra legs need to be cut off,
 
-
-![Imgur Image](http://i.imgur.com/zTONrOD.jpg)
