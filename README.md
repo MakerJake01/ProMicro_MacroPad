@@ -4,7 +4,7 @@
 This project is for anyone who wants to make an 8 key MacroPad. The parts will most likely cost more than buying one. It can be used for keybinds in many programs. 
 It's perfect for switching between scenes in OBS or a mute/unmute button in Discord.
 
-<img src="https://imgur.com/gallery/6hcVxPT"/>
+<img src="//imgur.com/a/6hcVxPT"/>
 
 **The programing:** <br>
 The code was all programmed in C++ using the Arduino IDE. It can be programmed with F keys (i.e. F13, F14, ...).
