@@ -19,5 +19,6 @@ There is a lot of SMD soldering. The smallest parts are 1206 resistors and capac
 Use the Gerber files to make the PCBs. It's a two-layer PCB and a 1.6 mm board. A black solder mask will look better but will add some time and possible cost.  
 
 **The switches** <br>
-The PCB has the holes for an MX style switch. The PCB has the holes for a plate mount switch. If you have a PCB mount switch, the extra legs need to be cut off,
+The PCB has the holes for an MX style switch. The PCB has the holes for a plate mount switch. If you have a PCB mount switch, the extra legs need to be cut off.
 
+Creative Commons Attribution-NonCommercial 4.0 International License. cc-by-nc
