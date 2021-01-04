@@ -2,7 +2,7 @@
 
 **Overview** <br>
 This project is for anyone who wants to make an 8 key MacroPad. The parts will most likely cost more than buying one. It can be used for keybinds in many programs. 
-It's perfect for switching between scenes in OBS or a mute/unmute button in Discord.
+It's perfect for switching between scenes in OBS or a mute/unmute button in Discord. Some of the code is probably not the most efficient as I am a beginner.
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/6hcVxPT"  ><a href="//imgur.com/a/6hcVxPT">MacroPad pics</a></blockquote>
 
