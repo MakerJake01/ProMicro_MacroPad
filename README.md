@@ -21,4 +21,8 @@ Use the Gerber files to make the PCBs. It's a two-layer PCB and a 1.6 mm board. 
 **The switches** <br>
 The PCB has the holes for an MX style switch. The PCB has the holes for a plate mount switch. If you have a PCB mount switch, the extra legs need to be cut off.
 
+**Build guide** <br>
+I am working on a multi-part build guide for my youtube channel.  
+https://www.youtube.com/makerjake
+
 Creative Commons Attribution-NonCommercial 4.0 International License. cc-by-nc
