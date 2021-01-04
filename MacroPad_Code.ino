@@ -42,6 +42,8 @@ const int but2pin = A2;
 int but1 = 0;
 const int but1pin = A3;
 
+int muteTog = 0;
+
 //Colors
 uint32_t on = pixels.Color(255, 0, 255);
 
@@ -219,3 +221,25 @@ void loop() {
     pixels.setPixelColor(3, base3);
     pixels.show();
   }
+
+  /*
+  If you use the macropad to mute/unmute you might want the led color to reflect its state. This code should do that. 
+  If you set this for many switches then you should add more "int muteTog = 0;" statements. But add numbers on the end, for example, muteTog1. 
+  also, change the pins in the example code to the pins on the actual switch.
+  
+  if (but2 == HIGH) {
+    if (muteTog == 0) {
+      pixels.setPixelColor(2, on);
+      muteTog = 1;
+      pixels.show();
+    } else if (muteTog == 1) {
+      pixels.setPixelColor(2, base2);
+      muteTog = 0;
+      pixels.show();
+    }
+    Keyboard.press(KEY_F14);
+    delay(delayval + delA);
+    Keyboard.releaseAll();
+    
+  }
+  */
