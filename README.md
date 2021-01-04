@@ -25,4 +25,7 @@ The PCB has the holes for an MX style switch. The PCB has the holes for a plate 
 I am working on a multi-part build guide for my youtube channel.  
 https://www.youtube.com/makerjake
 
+**printed parts** <br>
+I am having some trouble finding the STL files and my fusion 360 subscriptions has run out. I will try to either redesign the parts of finding the files. 
+
 Creative Commons Attribution-NonCommercial 4.0 International License. cc-by-nc
